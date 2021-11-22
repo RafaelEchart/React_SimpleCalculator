@@ -3,15 +3,14 @@
 > Basics of React.js and SPA 
 
 
-<!-- ## Built With
-
-- HTML & JS
-- Linters
-- Git & Github
-
 ## Built With
 
-- https://github.com/RafaelEchart/AwesomeBook.git
+- React.js
+- Linters testing
+
+## Repo link
+
+- https://github.com/RafaelEchart/React-SimpleCalculator.git
 
 ## Getting Started
 
@@ -25,8 +24,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Setup
 
-- git clone https://github.com/RafaelEchart/AwesomeBook.git
-- cd AwesomeBook
+- git clone https://github.com/RafaelEchart/React-SimpleCalculator.git
+- cd React-SimpleCalculator
 
 ### Usage
 
@@ -40,7 +39,6 @@ To get a local copy up and running follow these simple example steps.
 
 - Merge it with the main branch so we can all see your work!!🤝
 
- -->
 
 ## Authors
 
@@ -50,7 +48,7 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@rafaechart](https://twitter.com/rafaechart)
 
 
-<!-- ## 🤝 Contributing
+## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
@@ -66,4 +64,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./MIT.md) licensed. -->
+This project is [MIT](./MIT.md) licensed.
