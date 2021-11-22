@@ -1,6 +1,6 @@
 # React.js Calculator
 
-> Basic React.js and SPA concepts
+> Basics of React.js and SPA 
 
 
 <!-- ## Built With
