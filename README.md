@@ -1,16 +1,16 @@
-# React.js Calculator
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> Basics of React.js and SPA 
+# Simple Calculator
+
+> In this project, I will cover the basics of React.js and SPAs.  
+
 
 
 ## Built With
 
-- React.js
-- Linters testing
+- React js and JSX
+- Linters: Stylelint and Eslint
 
-## Repo link
-
-- https://github.com/RafaelEchart/React-SimpleCalculator.git
 
 ## Getting Started
 
@@ -18,18 +18,27 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- Git in your local machine
-- Code editor (VS code, Atom, etc)
+- Node js installed
+- Visual Studio Code (or any other code editor)
 - Terminal
+- Browser of your preference
 
 ### Setup
 
 - git clone https://github.com/RafaelEchart/React-SimpleCalculator.git
 - cd React-SimpleCalculator
 
+### Install
+
+Inside of your directory run the following commands:
+
+- npm install 
+- npm run start
+
 ### Usage
 
-- Add the changes you want and feel free to push it into a new Branch!
+- After ther 'npm run install' the browser will open with the React.js app
+
 
 ### Run tests
 
@@ -37,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Merge
 
-- Merge it with the main branch so we can all see your work!!🤝
+- Merge it with your main branch so we can all see your work!!🤝
 
 
 ## Authors
@@ -59,8 +68,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
+- Rafael Echart⭐️
 - Microverse documentation ⭐️
-- Rafael Echart ⭐️
 
 ## 📝 License
 
