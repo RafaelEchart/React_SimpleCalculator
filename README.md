@@ -1,6 +1,6 @@
-# Awesome Book
+# React.js Calculator
 
-> This is a simple example of the usage of Array, objects and DOM manipulation. 
+> Basic React.js and SPA concepts
 
 
 <!-- ## Built With
