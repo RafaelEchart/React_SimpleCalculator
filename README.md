@@ -1,8 +1,8 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # React.js Calculator
 
 > In this project, I will cover the basics of React.js and SPAs.  
-
-
 
 ## Built With
 
