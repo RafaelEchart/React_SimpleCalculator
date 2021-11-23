@@ -1,6 +1,6 @@
 .calculator_container {
   width: 300px;
-  background-color: #000000;
+  background-color: #000;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -8,7 +8,7 @@
 }
 
 .result_container {
-  background: #000000;
+  background: #000;
   border: 1px solid lightgray;
   width: 246px;
   margin: 13px 5px;
@@ -23,10 +23,8 @@
   width: 100%;
   display: flex;
   justify-content: space-around;
-  margin: 8px 0px;
+  margin: 8px 0;
 }
-
-
 
 .percent {
   background-color: #808080;
@@ -84,6 +82,6 @@
 }
 
 .gray_button {
-    background-color: gray;
-    color: black;
+  background-color: gray;
+  color: black;
 }
